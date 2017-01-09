@@ -47,7 +47,7 @@ Current list of validation strategy implementations to choose from:
 * [json-schema-validation-strategy](https://github.com/jefersondaniel/json-schema-validation-strategy) - based on [jsen]
 (https://github.com/bugventure/jsen)
 * [react-validatorjs-strategy](https://github.com/TheChech/react-validatorjs-strategy) - based on [validatorjs](https://github.com/skaterdav85/validatorjs)
-
+* [yup-validation-strategy](https://www.npmjs.com/package/yup-validation-strategy) - based on [yup](https://github.com/jquense/yup)
 
 ---
 
